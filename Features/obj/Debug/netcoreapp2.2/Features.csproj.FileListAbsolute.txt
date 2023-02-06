@@ -1,0 +1,10 @@
+c:\Users\mayar\OneDrive\Área de Trabalho\01 - Testes de Unidade\Features\bin\Debug\netcoreapp2.2\Features.deps.json
+c:\Users\mayar\OneDrive\Área de Trabalho\01 - Testes de Unidade\Features\bin\Debug\netcoreapp2.2\Features.dll
+c:\Users\mayar\OneDrive\Área de Trabalho\01 - Testes de Unidade\Features\bin\Debug\netcoreapp2.2\Features.pdb
+c:\Users\mayar\OneDrive\Área de Trabalho\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.csproj.AssemblyReference.cache
+c:\Users\mayar\OneDrive\Área de Trabalho\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mayar\OneDrive\Área de Trabalho\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.AssemblyInfoInputs.cache
+c:\Users\mayar\OneDrive\Área de Trabalho\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.AssemblyInfo.cs
+c:\Users\mayar\OneDrive\Área de Trabalho\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.csproj.CoreCompileInputs.cache
+c:\Users\mayar\OneDrive\Área de Trabalho\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.dll
+c:\Users\mayar\OneDrive\Área de Trabalho\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.pdb

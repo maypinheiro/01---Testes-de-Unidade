@@ -1,0 +1,10 @@
+c:\Users\mayar\OneDrive\Área de Trabalho\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp2.2\Demo.deps.json
+c:\Users\mayar\OneDrive\Área de Trabalho\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp2.2\Demo.dll
+c:\Users\mayar\OneDrive\Área de Trabalho\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp2.2\Demo.pdb
+c:\Users\mayar\OneDrive\Área de Trabalho\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.csproj.AssemblyReference.cache
+c:\Users\mayar\OneDrive\Área de Trabalho\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mayar\OneDrive\Área de Trabalho\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfoInputs.cache
+c:\Users\mayar\OneDrive\Área de Trabalho\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfo.cs
+c:\Users\mayar\OneDrive\Área de Trabalho\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.csproj.CoreCompileInputs.cache
+c:\Users\mayar\OneDrive\Área de Trabalho\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.dll
+c:\Users\mayar\OneDrive\Área de Trabalho\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.pdb
